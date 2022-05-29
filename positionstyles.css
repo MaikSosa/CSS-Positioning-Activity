@@ -131,7 +131,7 @@
 .content5 {
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
-  width: 60%;
+  width: 58%;
 }
 
 .red5 { 
@@ -140,8 +140,8 @@
   background-color: red; 
 } 
 .green5 { 
-  width: 300px; 
-  height: 300px; 
+  width: 208px; 
+  height: 208px; 
   background-color: green; 
   float: left;
   margin-bottom: 10px;
@@ -150,6 +150,7 @@
   width: 100%; 
   height:fit-content; 
   background-color: gold; 
+  text-align:start;
 } 
 .blue5 {
   width: 100%; 
